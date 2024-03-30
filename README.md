@@ -2,8 +2,8 @@
 This project is a clone of the latest Apple website, created using HTML and CSS only. The purpose of this project is to practice front-end web development skills, including HTML and CSS layout, responsive design, and web accessibility.
 
 ## Demo
-View the website: https://montymahato.github.io/apple-website-clone
-
+View the website:
+(https://issac8080.github.io/apple-website-copy-issac/)
 ## Features
 - Fully responsive design, optimized for desktop, tablet, and mobile devices.
 - Accurate recreation of the latest Apple website design, including layout, typography, and color scheme.
